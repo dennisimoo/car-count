@@ -5,3 +5,4 @@ opencv-python==4.8.1.78
 python-socketio==5.9.0
 torch==2.4.1
 torchvision==0.19.1
+numpy<2.0.0
