@@ -1,0 +1,7 @@
+flask==2.3.3
+flask-socketio==5.3.6
+ultralytics==8.0.196
+opencv-python==4.8.1.78
+python-socketio==5.9.0
+torch==2.4.1
+torchvision==0.19.1
